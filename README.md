@@ -1,7 +1,5 @@
 # MT Analyze
-
-![Figure_1](https://github.com/user-attachments/assets/1cbcdf79-6245-4f70-a171-53aefd355a94)
-
+![minetest_performance](https://github.com/user-attachments/assets/0c64054f-ebd0-42f8-acc9-addde6ed8f2a)
 
 Анализ производительности и расчет оптимальных значений для Luanti (Minetest).
 
